@@ -1,2 +1,4 @@
 # hello-world
-this is my first repository
+second time to try with github
+it is amazing
+l lovein it
